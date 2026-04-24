@@ -1,0 +1,11 @@
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\bin\Debug\Seed Chip Management Studio.exe.config
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\bin\Debug\Seed Chip Management Studio.exe
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\bin\Debug\Seed Chip Management Studio.pdb
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed_Chip_Management_Studio.Form1.resources
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed_Chip_Management_Studio.Properties.Resources.resources
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed Chip Management Studio.csproj.GenerateResource.cache
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed Chip Management Studio.csproj.CoreCompileInputs.cache
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed Chip Management Studio.exe
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed Chip Management Studio.pdb
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed_Chip_Management_Studio.ucAddChip.resources
+C:\Users\Comwp ODG\source\repos\Seed Chip Management Studio\Seed Chip Management Studio\obj\Debug\Seed Chip Management Studio.csprojAssemblyReference.cache
